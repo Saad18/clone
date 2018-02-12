@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496254895 source:c:\users\saad\desktop\c code\hajj-e-akbar\main.c
+	<stdio.h>
+	<string.h>
+
